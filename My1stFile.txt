@@ -3,3 +3,7 @@ Hola
 Archivo creado en el repositorio remoto
 
 Desde Github
+
+//////////
+
+Archivo modificado en el repositorio local desde Archivos
